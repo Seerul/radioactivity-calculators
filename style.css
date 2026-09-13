@@ -4,6 +4,19 @@
     padding: 20px;
     border: 2px solid black;
     margin: 30px;
+    font-size: 36px;
     display: flex;
 }
+
+.box{
+    width: 200px;
+    height: 100px;
+    padding: 20px;
+    border: 2px solid black;
+    margin: 30px;
+    font-size: 36px;
+    color: black;
+    display: flex;
+}
+
 
