@@ -5,11 +5,13 @@
     border: 2px solid black;
     margin: 30px;
     font-size: 36px;
+    display: flex;
     
 }
 
 .container {
     display: flex;
+    flex-direction: row;
 }
 
 
