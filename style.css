@@ -5,7 +5,11 @@
     border: 2px solid black;
     margin: 30px;
     font-size: 36px;
-    display: flexbox;
+    
+}
+
+.container {
+    display: flex;
 }
 
 
